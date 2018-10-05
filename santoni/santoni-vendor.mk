@@ -1009,6 +1009,7 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     QtiTelephonyService \
     ims \
+    imssettings \
     uceShimService \
     com.qualcomm.location \
     qcrilmsgtunnel \
